@@ -14,6 +14,11 @@ $(document).ready(function() {
        $(".celebrity #jennifer").show();
      }
 
+    if (gender1 === 'male'&& color === 'red') {
+        $(".celebrity #kimk").show();
+       }
+
+
 
 
 
